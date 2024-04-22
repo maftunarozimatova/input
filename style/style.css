@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    outline: none;
+    text-decoration: none;
+}
+.conteiner{
+    width: 100%;
+    height: 100vh;
+}
+.conteiner .text{
+    font-family: sans-serif;
+    font-weight: 500;
+    color: rgba(0, 0, 0, 1);
+    font-size: 25px;
+    text-align: center;
+    line-height: 80px;
+}
+.conteiner .text1{
+    font-family: sans-serif;
+    font-weight: 400;
+    color: rgb(32, 32, 32);
+    font-size: 13px;
+    text-align: center;
+}
+.conteiner .input{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 150px;
+}
+.conteiner .input .inp_left{
+    width: 300px;
+    height: 300px;
+    /* border: 1px solid blue; */
+    align-items: center;
+    line-height: 100px;
+    position: relative;
+    top: 30px;
+    
+}
+.conteiner .input .inp_left .inp1{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_left .inp2{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_left .inp3{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_left .inp4{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_left .inp5{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_left .inp6{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_right{
+    width: 300px;
+    height: 300px;
+    /* border: 1px solid blue; */
+    align-items: center;
+    line-height: 100px;
+    position: relative;
+    top: 30px;
+}
+.conteiner .input .inp_right .inp7{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_right .inp8{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_right .inp9{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}.conteiner .input .inp_right .inp10{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_right .inp11{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .input .inp_right  .inp12{
+    width: 300px;
+    height: 60px;
+    font-size: 25px;
+    border-radius: 8px;
+}
+.conteiner .btn{
+    width: 220px;
+    height: 60px;
+    font-size: 25px;
+    position: relative;
+    top: 320px;
+    background-color: rgba(66, 0, 255, 1);
+    border: 1px solid rgba(66, 0, 255, 1);
+    color: white;
+}
+.border{
+    border: 3px solid rgba(84, 63, 211, 1);
+   
+}
